@@ -1,0 +1,4 @@
+<A Directory="root" file="a.c" length="0" file="b.c" length="1">
+	<A Directory="a">1</A>
+</A>
+
